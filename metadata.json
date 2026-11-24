@@ -1,0 +1,6 @@
+{
+  "name": "Fashion Tattoo Studio",
+  "description": "Custom tattoos starting at ₹1,000 and precision piercings starting at ₹500 in Edappal. Open daily 10 AM – 8 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
